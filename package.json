@@ -1,0 +1,23 @@
+{
+  "name": "mongoose_essential",
+  "version": "1.0.0",
+  "description": "practicing mongoose essential",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubel-hossain/mongoose_essential.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb"
+  ],
+  "author": "rubel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubel-hossain/mongoose_essential/issues"
+  },
+  "homepage": "https://github.com/Rubel-hossain/mongoose_essential#readme"
+}
